@@ -1,0 +1,93 @@
+body{
+	background: rgb(33,33,33) !important;
+}
+
+
+.board {
+	border: 1px solid green;
+	padding: 10px;
+}
+
+
+
+
+.selections{
+	text-align: right;
+	
+	text-decoration: underline;
+	font-size: 30px;
+	color: white;
+
+}
+
+.name h1{
+	color: rgb(197, 197, 197);
+	text-align: right;
+	font-size: 80px;
+	
+
+}
+
+.aboutme-Text p{
+	border: 2px inset orange;
+	width: 500px;
+	height: 400px;
+	font-size: 20px;
+	padding: 10px;
+	color: white;
+	text-align: center;
+}
+
+.contact-Text p{
+	border: 2px inset orange;
+	width: 500px;
+	height: 75px;
+	font-size: 20px;
+	text-align: center;
+	padding: 10px;
+	color: white;
+}
+
+
+.resume {
+	color: rgb(197, 197, 197);
+	font-size: 30px;
+}
+
+
+
+.name{
+	
+	color: rgb(197, 197, 197);
+
+
+
+}
+
+.download {
+	font-size: 40px;
+	
+}
+#aboutme{
+	color: rgb(197, 197, 197);
+	
+	font-size: 30px;
+
+
+
+}
+
+#contacts{
+	color: rgb(197, 197, 197);
+	font-size: 30px;
+	
+	
+}
+
+#profilePic{
+	
+	
+	width: 100%;
+	border: 2px solid white;
+}
+

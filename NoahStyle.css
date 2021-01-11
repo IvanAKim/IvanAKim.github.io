@@ -1,0 +1,90 @@
+body{
+	background: rgb(33,33,33) !important;
+}
+
+
+.board {
+	border: 1px solid green;
+	padding: 10px;
+}
+
+.line {
+	border: 1px solid red;
+	padding: 10px;
+}
+
+.name{
+	
+	color: rgb(197, 197, 197);
+	text-align: left;
+	font-size: 50px;
+}
+
+.selections{
+	text-align: right;
+	font-size: 30px;
+	color: white;
+
+
+}
+
+.soon {
+	color: rgb(197, 197, 197);
+	font-size: 40px;
+}
+
+.des {
+	color: rgb(197, 197, 197);
+}
+
+.role h4{
+	color: rgb(197, 197, 197);
+	text-align: center;
+	margin-top: 60px;
+	font-size: 2vw;
+	
+
+	
+}
+
+.heropic {
+	width: 80%;
+
+}
+
+.namelink {
+	text-align: right;
+
+}
+
+.icons {
+	vertical-align: bottom;
+	width: 200px;
+
+
+}
+
+.des {
+	color: rgb(197, 197, 197);
+	font-size: 40px;
+}
+
+.abdes {
+	color: rgb(197, 197, 197);
+	font-size: 20px;
+}
+
+.bio {
+	color: rgb(197, 197, 197);
+	font-size: 20px;
+}
+
+
+
+
+Table , td{
+	border: 1px solid white;
+	padding: 50px;
+	background: rgb(40,57,83);
+}
+

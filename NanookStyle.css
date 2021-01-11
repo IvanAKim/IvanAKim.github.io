@@ -1,0 +1,59 @@
+body{
+	background: rgb(33,33,33) !important;
+}
+
+
+.board {
+	border: 1px solid green;
+	padding: 10px;
+}
+
+.line {
+	border: 1px solid red;
+	padding: 10px;
+}
+
+.name{
+	
+	color: rgb(197, 197, 197);
+	text-align: left;
+	font-size: 50px;
+}
+
+.selections{
+	text-align: right;
+	font-size: 30px;
+	color: white;
+
+
+}
+
+.soon {
+	color: rgb(197, 197, 197);
+	font-size: 40px;
+}
+
+.des {
+	color: rgb(197, 197, 197);
+}
+
+.role h4{
+	color: rgb(197, 197, 197);
+	text-align: center;
+	margin-top: 60px;
+	font-size: 2vw;
+	
+
+	
+}
+
+.heropic {
+	width: 100%;
+}
+
+.namelink {
+	text-align: right;
+
+}
+
+
